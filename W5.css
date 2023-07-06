@@ -1,0 +1,16 @@
+.col12{
+    display: flex;
+    align-items: center;
+}
+.text-body-secondary{
+    background: aqua;
+
+}
+.card-footer{
+    background: aqua;
+}
+.head{
+    background-color:rgb(236, 227, 227);
+}
+
+    
